@@ -25,6 +25,18 @@ Biryani was introduced in **Hyderabad** by **Mughal rulers**, it takes time and 
 9. Add mint leaves and fried onions.
 10. keep the cooker lid and wait for 1 whistle.
 11. TADAAAA! biryani is ready for serving.
+#### List of required items:
+- 1 bay leaf.
+- 4 green cardomoms.
+- 6 cloves.
+- 1 inch cinnamon piece.
+- 1 star anise.
+- 3/4 teaspoon shahi jeera.
+- 1 strand mace.
+- 1/4 cup yogurt.
+- 1 teaspoon garam masala.
+- 1 slit green chilli pepper.
+- 2 tablespoons chopped mint leaves.
 
 
 
