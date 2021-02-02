@@ -18,4 +18,10 @@ India is a vibrant land of startling contrasts where both the traditional and mo
  Goa | 96 hours | 300$
  Munnar | 120 hours | 350$
  Bangalore | 96 hours | 300$
+
+ ## Life Quotes
  
+ ---
+
+"Live your life in such a way that you neither hide nor have a wish to display your life to people." - *Leo Tolstoy*
+"The more self-knowledge you have, the calmer you can be." - *Maxime Lagace*
