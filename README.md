@@ -36,8 +36,8 @@ Biryani was introduced in **Hyderabad** by **Mughal rulers**, it takes time and 
 - 1/4 cup yogurt.
 - 1 teaspoon garam masala.
 - 1 slit green chilli pepper.
-- 2 tablespoons chopped mint leaves.
-
+- 2 tablespoons chopped mint leaves.<br>
+[Author Profile](AboutMe.md)
 
 
 
