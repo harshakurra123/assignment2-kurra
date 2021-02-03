@@ -4,9 +4,10 @@
 ###### Biryani
 Biryani was introduced in **Hyderabad** by **Mughal rulers**, it takes time and patience to prepare. It has rice, aromas of various spices and meat or vegetables. I like it because of spiciness, meat and **nail-biting finish**.
 
-## Biryani Receipe
 
 ---
+
+## Biryani Receipe
 
 1. Make few slits of chicken pieces and add items mentoined below.
     1. 3 tablespoons yogurt.
@@ -29,15 +30,40 @@ Biryani was introduced in **Hyderabad** by **Mughal rulers**, it takes time and 
 - 1 bay leaf.
 - 4 green cardomoms.
 - 6 cloves.
-- 1 inch cinnamon piece.
-- 1 star anise.
-- 3/4 teaspoon shahi jeera.
+    - 1 inch cinnamon piece.
+    - 1 star anise.
+    - 3/4 teaspoon shahi jeera.
 - 1 strand mace.
 - 1/4 cup yogurt.
 - 1 teaspoon garam masala.
 - 1 slit green chilli pepper.
 - 2 tablespoons chopped mint leaves.<br>
 [Author Profile](AboutMe.md)
+
+---
+
+## Tourist Places
+
+
+India is a vibrant land of startling contrasts where both the traditional and modern worlds meet. Below are best places among those.
+
+ Location    | Number of Hours | Amount of Money
+--- | --- | ---
+ Leh Ladakh | 120 hours | 400$
+ Goa | 96 hours | 300$
+ Munnar | 120 hours | 350$
+ Bangalore | 96 hours | 300$
+
+  ---
+
+ ## Life Quotes
+
+> "Live your life in such a way that you neither hide nor have a wish to display your life to people." - *Leo Tolstoy*
+
+> "The more self-knowledge you have, the calmer you can be." - *Maxime Lagace*
+
+---
+
 
 
 
