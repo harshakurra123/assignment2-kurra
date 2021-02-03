@@ -64,7 +64,23 @@ India is a vibrant land of startling contrasts where both the traditional and mo
 
 ---
 
+## Vim Script (Programming Language):
 
+> Vim is a highly configurable text editor built to enable efficient text editing. It is an improve version of the vi editor distributed with most UNIX systems.
 
+Vim Script <https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script>
+
+echo "Hello, world!"
+
+```
+let i = 1
+while i < 5
+  echo "count is" i
+  let i += 1
+endwhile
+unlet i
+```
+
+Vim Script Code Reference <https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script>
 
 
