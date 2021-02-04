@@ -70,9 +70,9 @@ India is a vibrant land of startling contrasts where both the traditional and mo
 
 Vim Script <https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script>
 
-echo "Hello, world!"
 
 ```
+echo "Hello, world!"
 let i = 1
 while i < 5
   echo "count is" i
